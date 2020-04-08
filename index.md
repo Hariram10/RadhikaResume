@@ -1,22 +1,31 @@
-
 <html>
 <head>
-<title> contact me </title>
+<title>Radhika resume</title>
 </head>
 <body>
-<h1>My contact details </h1>
-<p> 730050191 </p>
-<p> ganapathy nagar</p>
-<p> radhikarad0015@gmail.com </p>
+<img src="C:\Users\intel 2july19\Desktop\webassign\rady.jpg" alt="Radhika profile" style="width:100px;height:200px;">
+<h1>R.RADHIKA RAMESH</h1>
+<P>B.TECH-IT</P>
 <hr>
-<form action="mailto:radhikarad0015@gmail.com" method="post" enctype="text/plain" >
-<label> your name: </label>
-<input type="text" name="" value="" > <br> <br>
-<label> your email: </label> 
-<input type="email" name="" value=""> <br> <br>
-<label> your message: </label> <br>
-<textarea name="name" rows=10" cols="30"></textarea> <br> <br>
-<input type="submit" name="">
-</form>
-</body>
-</html>
+<h3>Objective</h3>
+<p>To join in a dynamic working environment ,
+     where my knowledge can be effectively utilized for achieving the targets of organization 
+     and simultaneously I can grow up in my profession with the growth of the organisation.  </p>
+     <hr>
+     <h3>Achievements</h3>
+     <p>Participated in SMART INDIA HACKATHON PROJECT COMPETITION  ,qualified to FINALS ,
+          in Guru nanak college of engineering , kolkata in march 2018.   </p>
+          <hr>
+		  <h3>Education qualification</h3>
+		  <p>Sri Manakula Vinayagar Engineering College<br>
+		  cgpa 7.0 <br>
+		  Pondicherry</p>
+		  <hr>
+		  <h3>Skill </h3>
+		  <p> Java </p> 
+		  <p> HTML/CSS </p> 
+		  <p> Javascript </p> 
+		  <p> MySql </p> 
+		  <a href="contact.html">Contact me</a>
+  </html>
+
